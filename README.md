@@ -63,7 +63,8 @@ This serves as the **cloud counterpart** to the on-prem `dc01.mylab.local` and l
 ---
 
 ## 🔗 Related Projects
-- [On-premise DC01 (mylab.local)](https://github.com/YOURUSERNAME/OnPrem-DC01)  
+- - [On-premise DC01 (mylab.local)](https://github.com/yoab39/ActiveDirectory-Lab)
+
 *(Replace with your actual repo link)*
 
 ---
